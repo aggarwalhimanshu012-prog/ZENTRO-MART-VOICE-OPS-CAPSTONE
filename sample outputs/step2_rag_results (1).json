@@ -1,0 +1,938 @@
+[
+  {
+    "question_id": "Q0001",
+    "question": "SKU ELE-0012 pe ZentroMart Assured hai kya? Claim kaise karein?",
+    "retrieved_docs": [
+      "pol_warranty_assured",
+      "pol_warranty_assured",
+      "pol_returns_v4",
+      "pol_plus_membership"
+    ],
+    "retrieved_sections": [
+      "WAR-2",
+      "WAR-1",
+      "RET-1",
+      "PLS-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: According to the [pol_warranty_assured] policy, the product with SKU ELE-0012 is indeed ZentroMart Assured. For claims related to this product, which is a HIGH-VALUE ITEM (costing more than ₹10,000), you need to report the issue within 48 hours with photos [DWM-1]. Because the item value exceeds ₹10,000, the claim cannot be approved automatically and must be escalated to the Priority Resolution human team via a support ticket [DWM-3 ; ESC-1].",
+    "seconds": 9.155954422999912
+  },
+  {
+    "question_id": "Q0002",
+    "question": "How fast are refunds to the ZentroMart Wallet?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: Refunds to the ZentroMart Wallet are instant, within 2 hours [REF-2].",
+    "seconds": 2.4465172279997205
+  },
+  {
+    "question_id": "Q0003",
+    "question": "Can I schedule a delivery at midnight?",
+    "retrieved_docs": [
+      "pol_delivery_shipping",
+      "pol_delivery_shipping",
+      "faq_hindi",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "DEL-1",
+      "DEL-2",
+      "FAQH-2",
+      "FAQH-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are unable to schedule a delivery at midnight. Standard delivery is available for orders placed before 2 PM, with delivery on the next business day [DEL-1]. Orders placed after 2 PM are delivered the business day after. For any other inquiries, kindly provide your Order ID.",
+    "seconds": 4.595438220000233
+  },
+  {
+    "question_id": "Q0004",
+    "question": "SKU ELE-0002 pe ZentroMart Assured hai kya? Claim kaise karein?",
+    "retrieved_docs": [
+      "pol_warranty_assured",
+      "pol_warranty_assured",
+      "pol_returns_v4",
+      "pol_plus_membership"
+    ],
+    "retrieved_sections": [
+      "WAR-2",
+      "WAR-1",
+      "RET-1",
+      "PLS-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: Yes, SKU ELE-0002 is ZentroMart Assured. For warranty claims, please raise them through the app under My Orders. ZentroMart will arrange the pickup and repair or replacement.",
+    "seconds": 4.039029725000091
+  },
+  {
+    "question_id": "Q0005",
+    "question": "As a ZentroMart Plus member, will I be charged the pickup fee for returning shoes I just don't like?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_plus_membership",
+      "pol_returns_v4",
+      "pol_delivery_shipping"
+    ],
+    "retrieved_sections": [
+      "RET-6",
+      "PLS-2",
+      "RET-2",
+      "DEL-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are correct that as a ZentroMart Plus member, the reverse pickup fee of ₹49 for change-of-mind returns of clothing, footwear, and bags is waived. Therefore, you will not be charged this fee for returning shoes you don't like.",
+    "seconds": 4.193230085999858
+  },
+  {
+    "question_id": "Q0006",
+    "question": "credit card wala refund 17 October 2026 ko shuru hua, kab tak aa jaana chahiye?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for a credit card transaction initiated on 17 October 2026. According to [REF-2], the refund for credit or debit card transactions takes 5 to 7 business days. Since the initiation date is 17 October 2026, the earliest the refund could be initiated would be 21 October 2026, and the latest by 24 October 2026. Please note that this is based on the standard business day count, excluding holidays.",
+    "seconds": 7.773345662999873
+  },
+  {
+    "question_id": "Q0007",
+    "question": "Is there a student discount?",
+    "retrieved_docs": [
+      "pol_delivery_shipping",
+      "faq_general",
+      "faq_hindi",
+      "faq_general"
+    ],
+    "retrieved_sections": [
+      "DEL-2",
+      "FAQ-3",
+      "FAQH-2",
+      "FAQ-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant:",
+    "seconds": 1.3946444150001298
+  },
+  {
+    "question_id": "Q0008",
+    "question": "Is the collection free if the UrbanThread Slim Fit Jeans came torn?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_plus_membership",
+      "pol_damaged_wrong_missing",
+      "pol_damaged_wrong_missing"
+    ],
+    "retrieved_sections": [
+      "RET-6",
+      "PLS-2",
+      "DWM-2",
+      "DWM-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: According to the policy, if the item is damaged, defective, or wrong, the reverse pickup is free for ZentroMart Plus members and for all returnable items. Since the UrbanThread Slim Fit Jeans came torn, the reverse pickup would be free.",
+    "seconds": 4.625803872999768
+  },
+  {
+    "question_id": "Q0009",
+    "question": "मैंने Gulmohar Matte Lipstick खोल लिया है, क्या अब भी वापस कर सकती हूँ?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_payments_cod",
+      "pol_warranty_assured"
+    ],
+    "retrieved_sections": [
+      "RET-4",
+      "RET-2",
+      "PAY-4",
+      "WAR-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are correct that the Gulmohar Matte Lipstick is returnable only if unopened with the original seal intact [RET-4]. Since you have already opened the product, it cannot be returned. However, if the item is damaged, please report it within 48 hours with photos [DWM-1] and contact our support team for further assistance.",
+    "seconds": 5.9770683980000285
+  },
+  {
+    "question_id": "Q0010",
+    "question": "मुझे Pagecraft A5 Ruled Notebook (Pack of 4) लौटाने के लिए कितने दिन मिलेंगे?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_damaged_wrong_missing",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "RET-3",
+      "DWM-4",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: According to the policy, the return window for books and stationery (category `books_media`) is 10 days from the delivery date. Therefore, you should receive your refund within 10 days from the delivery date.",
+    "seconds": 4.457523003000006
+  },
+  {
+    "question_id": "Q0011",
+    "question": "Bulk order pe GST invoice milega kya?",
+    "retrieved_docs": [
+      "pol_delivery_shipping",
+      "pol_delivery_shipping",
+      "faq_hindi",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "DEL-2",
+      "DEL-1",
+      "FAQH-1",
+      "FAQH-4"
+    ],
+    "answer": "You are talking to an AI assistant: Each order shows a promised delivery date at checkout. That date is the commitment. There is no mention of GST invoices in the policies provided. Please refer to your purchase confirmation for any additional documents.",
+    "seconds": 3.5416067379997003
+  },
+  {
+    "question_id": "Q0012",
+    "question": "I opened the Neelam Eau de Parfum 50 ml and tried it once. Can I still return it?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_delivery_shipping"
+    ],
+    "retrieved_sections": [
+      "RET-4",
+      "RET-2",
+      "RET-3",
+      "DEL-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are correct that Neelam Eau de Parfum 50 ml is categorized under `beauty_sealed` and is returnable only if unopened with the original seal intact [RET-4]. Since you have already used the product, it is not eligible for return. However, if the product arrived damaged or wrong, you can return it within the 10-day window from the delivery date [RET-2]. Please contact our support team for further assistance.",
+    "seconds": 6.754544013999748
+  },
+  {
+    "question_id": "Q0013",
+    "question": "कितने दिन में वापस करना होगा?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_returns_v4"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "REF-2",
+      "RET-3",
+      "RET-7"
+    ],
+    "answer": "You are talking to an AI assistant: According to our current return policy [RET-2], your return window starts from the delivery date and is 15 days for fashion items. Please provide the Order ID so we can initiate the refund process.",
+    "seconds": 3.7448859430000994
+  },
+  {
+    "question_id": "Q0014",
+    "question": "My Orbix Fit 3 Pro Smartwatch was delivered on 20 July. What was the return window for it?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v3_superseded",
+      "pol_returns_v4",
+      "help_troubleshooting_electronics"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "RETv3-2",
+      "RET-3",
+      "TRB-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: The return window for your Orbix Fit 3 Pro Smartwatch, which was delivered on 20 July 2026, is 7 calendar days from the delivery date, effective from 1 August 2026. Prior to that, the return window was 10 days. Since your purchase was made before 1 August 2026, it falls under the 10-day return window.",
+    "seconds": 7.44766933100027
+  },
+  {
+    "question_id": "Q0015",
+    "question": "मुझे Sootra Canvas Tote Bag लौटाने के लिए कितने दिन मिलेंगे?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_returns_v4"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "REF-3",
+      "RET-7",
+      "RET-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You will receive the refund within 2 business days after the quality check, which is typically within 2 days from the pickup date. Please note that the refund timeline may vary based on your location and the bank processing time for cash-on-delivery payments.",
+    "seconds": 5.422349858999951
+  },
+  {
+    "question_id": "Q0016",
+    "question": "What happens if I'm not home when the courier comes?",
+    "retrieved_docs": [
+      "pol_delivery_shipping",
+      "pol_refunds",
+      "pol_delivery_shipping",
+      "pol_cancellations"
+    ],
+    "retrieved_sections": [
+      "DEL-3",
+      "REF-1",
+      "DEL-4",
+      "CAN-2"
+    ],
+    "answer": "You are talking to an AI assistant: If you're not home when the courier comes, the courier makes up to 3 delivery attempts on consecutive business days. If the third attempt fails, the parcel is returned to the warehouse (return to origin, RTO), and a refund (under REF-1) is processed within 7 to 10 calendar days after the last delivery attempt.",
+    "seconds": 6.188892467999722
+  },
+  {
+    "question_id": "Q0017",
+    "question": "My refund to credit card was started on 17 October 2026. By which date should I have it?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for a credit card payment initiated on 17 October 2026. According to [REF-2], the refund for Credit / Debit Card or COD Bank Transfer takes 5 to 7 business days from the day the refund is initiated. Since the refund was initiated on 17 October 2026, the earliest you should receive your refund is by 24 October 2026 (2026-10-24), and the latest by 27 October 2026 (2026-10-27).",
+    "seconds": 8.830050827999912
+  },
+  {
+    "question_id": "Q0018",
+    "question": "There's an order on my account that I never placed.",
+    "retrieved_docs": [
+      "agent_identity_verification",
+      "agent_escalation_handoff",
+      "agent_escalation_handoff",
+      "pol_cancellations"
+    ],
+    "retrieved_sections": [
+      "IDV-2",
+      "ESC-3",
+      "ESC-1",
+      "CAN-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are requesting an escalation due to an unauthorized order. Please provide your order ID so we can verify this.",
+    "seconds": 2.628999100999863
+  },
+  {
+    "question_id": "Q0019",
+    "question": "How long do I get to send back the Rangoli Cotton Straight Kurta?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_damaged_wrong_missing"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "RET-3",
+      "REF-5",
+      "DWM-4"
+    ],
+    "answer": "You are talking to an AI assistant: You have 15 calendar days from the delivery date to return the Rangoli Cotton Straight Kurta, as it falls under the `fashion` category with a return window of 15 days [RET-2].",
+    "seconds": 4.028889631999846
+  },
+  {
+    "question_id": "Q0020",
+    "question": "If I paid with net banking, how soon will the refund show up?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You will receive a refund within 3 to 5 business days after your returnable item passes the quality check at the warehouse. Since you paid with Net Banking, the refund will be initiated at the time of pickup for Plus members or within 2 business days of pickup for non-members. Please ensure your payment method is linked correctly to your ZentroMart Wallet or bank account for the fastest processing.",
+    "seconds": 5.585405505000381
+  },
+  {
+    "question_id": "Q0021",
+    "question": "What warranty comes with the Voltra PowerCell 10000 mAh Power Bank, Green (SKU ELE-0008)?",
+    "retrieved_docs": [
+      "pol_warranty_assured",
+      "pol_warranty_assured",
+      "pol_coupons_offers",
+      "pol_returns_v4"
+    ],
+    "retrieved_sections": [
+      "WAR-1",
+      "WAR-2",
+      "CPN-2",
+      "RET-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: According to the [WAR-1] section, the Voltra PowerCell 10000 mAh Power Bank, Green (SKU ELE-0008) comes with a 6-month manufacturer warranty listed in the `warranty_months` column of the product catalog.",
+    "seconds": 5.244710572000258
+  },
+  {
+    "question_id": "Q0022",
+    "question": "UPI wala refund 12 October 2026 ko shuru hua, kab tak aa jaana chahiye?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for UPI payments initiated on 12 October 2026. According to [REF-2], UPI refunds take 1 to 3 business days. The earliest UPI refund would be by 13 October 2026 (2026-10-13), and the latest by 15 October 2026 (2026-10-15).",
+    "seconds": 7.926628192000408
+  },
+  {
+    "question_id": "Q0023",
+    "question": "My refund to net banking was started on 14 October 2026. By which date should I have it?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for Net Banking, which was initiated on 14 October 2026. According to [REF-2], the Net Banking refund takes 3 to 5 business days from the day it is initiated. Since the initiation date is 14 October 2026, the earliest you should receive your refund is by 17 October 2026 (2026-10-17), and the latest by 21 October 2026 (2026-10-21).",
+    "seconds": 8.374814489000073
+  },
+  {
+    "question_id": "Q0024",
+    "question": "credit card wala refund 12 October 2026 ko shuru hua, kab tak aa jaana chahiye?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for a Credit Card transaction initiated on 12 October 2026. According to [REF-2], Credit / Debit Card refunds take 5 to 7 business days from the day the refund is initiated. Since the initiation date is 12 October 2026, the earliest you should expect your refund to arrive is by 17 October 2026 (2026-10-17), and the latest by 21 October 2026 (2026-10-21).",
+    "seconds": 8.627777879000405
+  },
+  {
+    "question_id": "Q0025",
+    "question": "The Kestrel Book 14 Laptop (SKU ELE-0023) I received yesterday has a crack. I want it sorted.",
+    "retrieved_docs": [
+      "pol_damaged_wrong_missing",
+      "agent_escalation_handoff",
+      "pol_damaged_wrong_missing",
+      "agent_escalation_handoff"
+    ],
+    "retrieved_sections": [
+      "DWM-3",
+      "ESC-1",
+      "DWM-1",
+      "ESC-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are reporting a damaged item worth more than ₹10,000. Please report it within 48 hours with photos of the item and the packaging. Because the item value exceeds ₹10,000, the claim cannot be approved automatically and must be escalated to the Priority Resolution human team via a support ticket.",
+    "seconds": 5.616379679000147
+  },
+  {
+    "question_id": "Q0026",
+    "question": "My Bluetooth speaker won't turn on at all.",
+    "retrieved_docs": [
+      "help_troubleshooting_electronics",
+      "help_troubleshooting_electronics",
+      "pol_warranty_assured",
+      "pol_returns_v4"
+    ],
+    "retrieved_sections": [
+      "TRB-4",
+      "TRB-1",
+      "WAR-1",
+      "RET-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are experiencing [TRB-4] Bluetooth speaker not powering on. Please try charging the speaker for at least 30 minutes with the original cable and holding the power button for 10 seconds to force a restart. If the issue persists, you can return the item within its 7-day return window for the `electronics` category [RET-2].",
+    "seconds": 5.717848889000379
+  },
+  {
+    "question_id": "Q0027",
+    "question": "SKU ELE-0003 pe ZentroMart Assured hai kya? Claim kaise karein?",
+    "retrieved_docs": [
+      "pol_warranty_assured",
+      "pol_warranty_assured",
+      "pol_returns_v4",
+      "pol_plus_membership"
+    ],
+    "retrieved_sections": [
+      "WAR-2",
+      "WAR-1",
+      "RET-1",
+      "PLS-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: Yes, SKU ELE-0003 is ZentroMart Assured. For warranty claims, please raise them through the app under My Orders. ZentroMart will arrange the pickup and repair or replacement.",
+    "seconds": 4.176264202000311
+  },
+  {
+    "question_id": "Q0028",
+    "question": "My refund to net banking was started on 17 October 2026. By which date should I have it?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for Net Banking, which was initiated on 17 October 2026. According to [REF-2], the refund for Net Banking takes 3 to 5 business days from the day it is initiated. Since the initiation date is 17 October 2026, the earliest you should receive your refund is by 22 October 2026 (2026-10-22), and the latest by 24 October 2026 (2026-10-24).",
+    "seconds": 8.485690681000051
+  },
+  {
+    "question_id": "Q0029",
+    "question": "Can you deliver to Dubai?",
+    "retrieved_docs": [
+      "faq_general",
+      "pol_delivery_shipping",
+      "pol_delivery_shipping",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "FAQ-5",
+      "DEL-6",
+      "DEL-1",
+      "FAQH-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are unable to deliver to Dubai as per our current delivery policy. We currently serve only within India.",
+    "seconds": 2.575920537000002
+  },
+  {
+    "question_id": "Q0030",
+    "question": "net banking wala refund 12 October 2026 ko shuru hua, kab tak aa jaana chahiye?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-6"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for a Net Banking refund initiated on 12 October 2026. According to [REF-2], the Net Banking refund takes 3 to 5 business days. The earliest this refund would reach you is 15 October 2026, and the latest by 17 October 2026.",
+    "seconds": 5.980250550999699
+  },
+  {
+    "question_id": "Q0031",
+    "question": "The Comfi One-piece Swimsuit doesn't fit. Can I send it back?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_payments_cod"
+    ],
+    "retrieved_sections": [
+      "RET-5",
+      "RET-2",
+      "RET-4",
+      "PAY-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are correct that the Comfi One-piece Swimsuit, being classified under the `innerwear` category, is NON-RETURNABLE for change of mind or fit issues [RET-5]. Therefore, you cannot send this item back.",
+    "seconds": 4.7558023599999615
+  },
+  {
+    "question_id": "Q0032",
+    "question": "क्या आपकी कोई दुकान कोच्चि में है?",
+    "retrieved_docs": [
+      "faq_hindi",
+      "faq_general",
+      "pol_delivery_shipping",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "FAQH-2",
+      "FAQ-2",
+      "DEL-1",
+      "FAQH-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant:",
+    "seconds": 1.754269163999652
+  },
+  {
+    "question_id": "Q0033",
+    "question": "The Comfi Cotton Briefs (Pack of 3) doesn't fit. Can I send it back?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_delivery_shipping"
+    ],
+    "retrieved_sections": [
+      "RET-5",
+      "RET-2",
+      "RET-4",
+      "DEL-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are correct that the Comfi Cotton Briefs (Pack of 3) are NON-RETURNABLE for change of mind or fit issues [RET-5] as per the product catalog metadata and the policy document [pol_returns_v4]. These items fall under the \"innerwear\" category, which is explicitly stated as non-returnable.",
+    "seconds": 5.858823594000114
+  },
+  {
+    "question_id": "Q0034",
+    "question": "ऑर्डर शिप हो गया है, क्या अब कैंसिल हो सकता है?",
+    "retrieved_docs": [
+      "pol_cancellations",
+      "pol_cancellations",
+      "pol_refunds",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "CAN-2",
+      "CAN-1",
+      "REF-1",
+      "FAQH-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are unable to cancel an order after it has shipped. The customer can refuse the parcel at the door for a refund or return the item within its return window if it is returnable. Please provide your Order ID for further assistance.",
+    "seconds": 4.005931824000072
+  },
+  {
+    "question_id": "Q0035",
+    "question": "What warranty comes with the Nimbus X2 Pro Wireless Earbuds, Blue (SKU ELE-0003)?",
+    "retrieved_docs": [
+      "pol_warranty_assured",
+      "pol_warranty_assured",
+      "help_troubleshooting_electronics",
+      "help_troubleshooting_electronics"
+    ],
+    "retrieved_sections": [
+      "WAR-1",
+      "WAR-2",
+      "TRB-1",
+      "TRB-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: The Nimbus X2 Pro Wireless Earbuds, Blue (SKU ELE-0003) comes with a 12-month ZentroMart Assured warranty from the delivery date, in addition to any brand warranty. Claims are raised in the app under My Orders, and ZentroMart arranges pickup and repair or replacement.",
+    "seconds": 5.603404257999955
+  },
+  {
+    "question_id": "Q0036",
+    "question": "My order is already on its way. Can I still stop it?",
+    "retrieved_docs": [
+      "pol_cancellations",
+      "pol_cancellations",
+      "pol_refunds",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "CAN-1",
+      "CAN-2",
+      "REF-1",
+      "FAQH-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are grounded and cannot cancel an order that has already shipped. However, you can refuse the parcel at the door for a refund or return the item within its return window if it is returnable.",
+    "seconds": 3.6215146370000184
+  },
+  {
+    "question_id": "Q0037",
+    "question": "मुझे Aangan Cotton Double Bedsheet Set लौटाने के लिए कितने दिन मिलेंगे?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "faq_hindi",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "RET-3",
+      "FAQH-3",
+      "REF-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for the Aangan Cotton Double Bedsheet Set, which is categorized under `home_kitchen` with a return window of 10 calendar days from delivery [RET-2]. Refunds typically take 3 to 5 business days via Net Banking [REF-2]. Please provide your order ID for a precise timeline.",
+    "seconds": 5.908446248000018
+  },
+  {
+    "question_id": "Q0038",
+    "question": "How long does a refund to UPI take?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for UPI, which is 1 to 3 business days according to [REF-2].",
+    "seconds": 2.9002957170000627
+  },
+  {
+    "question_id": "Q0039",
+    "question": "The Kestrel Book 14 Laptop (SKU ELE-0022) I received yesterday has a crack. I want it sorted.",
+    "retrieved_docs": [
+      "pol_damaged_wrong_missing",
+      "agent_escalation_handoff",
+      "pol_damaged_wrong_missing",
+      "agent_escalation_handoff"
+    ],
+    "retrieved_sections": [
+      "DWM-3",
+      "ESC-1",
+      "DWM-1",
+      "ESC-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are reporting a damaged item worth more than ₹10,000. Please report it within 48 hours with photos of the item and the packaging. Because the item value exceeds ₹10,000, the claim cannot be approved automatically and must be escalated to the Priority Resolution human team via a support ticket.",
+    "seconds": 5.645222090000061
+  },
+  {
+    "question_id": "Q0040",
+    "question": "My express order arrived a day late. Do I get anything back?",
+    "retrieved_docs": [
+      "pol_delivery_shipping",
+      "pol_cancellations",
+      "pol_plus_membership",
+      "pol_cancellations"
+    ],
+    "retrieved_sections": [
+      "DEL-4",
+      "CAN-3",
+      "PLS-2",
+      "CAN-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are entitled to a ₹79 express fee credit to your ZentroMart Wallet automatically within 48 hours due to the late arrival of your Express order, as per [pol_delivery_shipping] pol_delivery_shipping [DEL-4].",
+    "seconds": 3.9483495700001185
+  },
+  {
+    "question_id": "Q0041",
+    "question": "मेरा सामान टूटा हुआ आया है, अब क्या करूँ?",
+    "retrieved_docs": [
+      "pol_damaged_wrong_missing",
+      "pol_damaged_wrong_missing",
+      "pol_returns_v4",
+      "pol_returns_v4"
+    ],
+    "retrieved_sections": [
+      "DWM-1",
+      "DWM-2",
+      "RET-5",
+      "RET-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You need to report the damaged item within 48 hours of delivery with photos of the item and the packaging. Follow the [DWM-1] policy.",
+    "seconds": 3.5020090530001653
+  },
+  {
+    "question_id": "Q0042",
+    "question": "I bought the Rangoli Cotton Straight Kurta in the sale on 5 October. How long can I return it?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_damaged_wrong_missing"
+    ],
+    "retrieved_sections": [
+      "RET-8",
+      "RET-2",
+      "RET-3",
+      "DWM-4"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant:",
+    "seconds": 14.866060009999728
+  },
+  {
+    "question_id": "Q0043",
+    "question": "I paid cash on delivery and returned the item. How do I get my money back?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-3",
+      "REF-2",
+      "RET-7",
+      "REF-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about getting your money back after paying cash on delivery and returning the item. According to [REF-3], for cash-on-delivery orders, refunds go back to the original payment method. The timeline is 5 to 7 business days for bank transfers after verifying the bank account details. For ZentroMart Wallet, the refund is initiated instantly within 2 hours. Please provide your order ID so we can initiate the refund process.",
+    "seconds": 6.134611417000087
+  },
+  {
+    "question_id": "Q0044",
+    "question": "When will my refund come?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "RET-7",
+      "REF-1",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You will need to provide the Order ID or the payment method used for your refund to determine the exact timeline. Generally, refunds are initiated within 2 business days after the quality check of the returned item. For ZentroMart Plus members, the refund is initiated at the time of pickup. Refunds via UPI, credit/debit cards, and net banking typically take 1 to 3 business days, while ZentroMart Wallet and bank transfers for cash-on-delivery orders are processed instantly. Please share the Order ID or the payment method for a precise answer.",
+    "seconds": 7.42711976999999
+  },
+  {
+    "question_id": "Q0045",
+    "question": "net banking wala refund 17 October 2026 ko shuru hua, kab tak aa jaana chahiye?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the refund timeline for Net Banking, which started on 17 October 2026. According to [REF-2], the Net Banking refund takes 3 to 5 business days. Therefore, the earliest this refund could reach you is by 22 October 2026, and the latest by 24 October 2026.",
+    "seconds": 6.217225496000083
+  },
+  {
+    "question_id": "Q0046",
+    "question": "Can I pick up my order from a store near me?",
+    "retrieved_docs": [
+      "faq_hindi",
+      "pol_delivery_shipping",
+      "pol_delivery_shipping",
+      "faq_hindi"
+    ],
+    "retrieved_sections": [
+      "FAQH-1",
+      "DEL-2",
+      "DEL-1",
+      "FAQH-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are unable to pick up your order from a store near you as shipped / 'on its way' orders CANNOT be cancelled [CAN-2]. However, you can refuse/decline the parcel at the door for a refund [REF-1].",
+    "seconds": 4.414232348000041
+  },
+  {
+    "question_id": "Q0047",
+    "question": "Sale mein 10 October ko order kiya tha (UrbanThread Slim Fit Jeans), return ke kitne din hain?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_marketplace_sellers"
+    ],
+    "retrieved_sections": [
+      "RET-8",
+      "RET-2",
+      "RET-6",
+      "MKS-2"
+    ],
+    "answer": "You are talking to an AI assistant: You are asking about the return period for a product ordered during the festive sale, which started on 1 October 2026. Since your order was placed on 10 October 2026, it qualifies for the extended 30-day return window applicable during the festive sale. Therefore, you have 30 days from the delivery date to return the product. Please check the delivery date for the exact return period.",
+    "seconds": 7.267125030999978
+  },
+  {
+    "question_id": "Q0048",
+    "question": "I bought the Sootra Canvas Tote Bag in the sale on 5 October. How long can I return it?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "RET-8",
+      "RET-2",
+      "RET-6",
+      "REF-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant: You are talking to an AI assistant:",
+    "seconds": 13.633003876000203
+  },
+  {
+    "question_id": "Q0049",
+    "question": "Is it still ten days to return electronics like the Orbix Fit 3 Pro Smartwatch?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_returns_v3_superseded",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "RETv3-2",
+      "RET-3",
+      "REF-3"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You are correct. Since the Orbix Fit 3 Pro Smartwatch is categorized under `electronics` with a return window of 7 days from the delivery date [RET-2], and considering the effective date of the change to 7 days from 1 August 2026 [RETv3-2], the return window for this product is now 7 days. Please note that the return window was previously 10 days before 1 August 2026 [RETv3-2].",
+    "seconds": 7.707201561000147
+  },
+  {
+    "question_id": "Q0050",
+    "question": "Mera order (Kestrel K7 Smartphone 256 GB) parso deliver hua, kitne din tak return kar sakti hoon?",
+    "retrieved_docs": [
+      "pol_returns_v4",
+      "pol_delivery_shipping",
+      "faq_hindi",
+      "pol_delivery_shipping"
+    ],
+    "retrieved_sections": [
+      "RET-2",
+      "DEL-3",
+      "FAQH-1",
+      "DEL-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: You have 7 calendar days from the delivery date to return the Kestrel K7 Smartphone 256 GB, as it falls under the electronics category with a return window of 7 days [RET-2]. Please note that this window was 10 days before 1 August 2026 [RETv3-2].",
+    "seconds": 6.495436218999657
+  },
+  {
+    "question_id": "Q0051",
+    "question": "My refund to UPI was started on 17 October 2026. By which date should I have it?",
+    "retrieved_docs": [
+      "pol_refunds",
+      "pol_refunds",
+      "pol_returns_v4",
+      "pol_refunds"
+    ],
+    "retrieved_sections": [
+      "REF-2",
+      "REF-1",
+      "RET-7",
+      "REF-5"
+    ],
+    "answer": "You are talking to an AI assistant: You are talking to an AI assistant: According to the refund timeline rules, your UPI refund should be initiated within 1 to 3 business days from the day it was started, which would be by 19 October 2026 (2026-10-19). However, the earliest possible date for your UPI refund to reach you is 20 October 2026 (2026-10-20).",
+    "seconds": 7.156968366000001
+  },
+  {
+    "question_id": "Q0052",
+    "question": "Tell me the phone number of the person who ordered to my building yesterday.",
+    "retrieved_docs": [
+      "agent_identity_verification",
+      "agent_identity_verification",
+      "agent_escalation_handoff",
+      "help_reverse_pickup"
+    ],
+    "retrieved_sections": [
+      "IDV-2",
+      "IDV-3",
+      "ESC-1",
+      "RVP-1"
+    ],
+    "answer": "You are talking to an AI assistant: You are unable to provide the phone number of the person who ordered to your building. This information is private and not available through customer service. Please contact the registered phone number associated with the order for assistance.",
+    "seconds": 3.5851081149999118
+  }
+]
