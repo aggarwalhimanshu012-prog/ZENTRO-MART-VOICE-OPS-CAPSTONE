@@ -1,0 +1,8 @@
+torch>=2.2
+transformers>=4.49,<5
+sentence-transformers
+numpy
+pandas
+pillow
+gnani-vachana
+python-dotenv
